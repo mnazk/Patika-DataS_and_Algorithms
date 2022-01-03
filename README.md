@@ -1,1 +1,0 @@
-# Patika-DataS_and_Algorithms
