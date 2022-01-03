@@ -3,8 +3,3 @@
 -Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 **Solution**
-1. Root: 5
-2.        5
-3.      /   \
-4.      3
-5.      
