@@ -3,3 +3,11 @@
 -Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 **Solution**
+
+                       5  
+                 /            \
+              2                7
+          /      \          /     \
+       1           3      6         8
+     /              \                \
+    0                 4                9
